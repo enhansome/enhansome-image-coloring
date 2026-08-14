@@ -37,7 +37,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 #### Caffee
 
-* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,459 | 🐛 59 | 🌐 Python | 📅 2023-11-27 - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. <http://richzhang.github.io/colorization/>
+* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,461 | 🐛 59 | 🌐 Python | 📅 2023-11-27 - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. <http://richzhang.github.io/colorization/>
 * [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,692 | 🐛 32 | 🌐 Python | 📅 2022-07-29 - Deep learning software for colorizing black and white images with a few clicks. <https://richzhang.github.io/ideepcolor/>
 
 #### PyTorch
@@ -75,10 +75,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,022 | 🐛 25 | 🌐 Python | 📅 2026-08-11 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,749 | 🐛 84 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,179 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,031 | 🐛 25 | 🌐 Python | 📅 2026-08-11 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,752 | 🐛 84 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,182 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
