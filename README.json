@@ -322,7 +322,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74031
+            "stars": 74045
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28752
+            "stars": 28760
           }
         },
         {
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:52:16.870Z",
+    "last_updated": "2026-08-15T20:44:29.329Z",
     "original_repository": "oskar-j/awesome-image-coloring",
     "original_repository_sha": "df35e9e49494b702cd3c718b93ded77a6a05cfec",
     "enhanced_repository": "enhansome/enhansome-image-coloring",
