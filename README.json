@@ -466,10 +466,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-21T10:11:51Z",
+            "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74142
+            "stars": 74145
           }
         },
         {
@@ -484,7 +484,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28804
+            "stars": 28807
           }
         },
         {
@@ -507,7 +507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:08.598Z",
+    "last_updated": "2026-08-24T20:55:20.010Z",
     "original_repository": "oskar-j/awesome-image-coloring",
     "original_repository_id": 189833747,
     "original_repository_sha": "df35e9e49494b702cd3c718b93ded77a6a05cfec",
