@@ -195,6 +195,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "DeOldify",
+                  "description": "A Deep Learning based project for colorizing and restoring old images.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 155636246,
+                    "language": "Python",
+                    "last_commit": "2024-10-19T17:17:35Z",
+                    "owner": "jantic",
+                    "repo": "DeOldify",
+                    "stars": 18483
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Fast.AI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Colorful Image Colorization",
                   "description": "Automatic colorization using deep neural networks. \"Colorful Image Colorization.\" In ECCV, 2016. http://richzhang.github.io/colorization/",
                   "children": [],
@@ -314,9 +336,123 @@
           "description": null,
           "node_type": "group",
           "title": ":snake: Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Beyond Landscapes: An Exemplar-based Image colorization method",
+              "description": "Exemplar-based Image Colorization method based on superpixel segmentation and classification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167730916,
+                "language": "C++",
+                "last_commit": "2019-01-26T19:55:59Z",
+                "owner": "saulo-p",
+                "repo": "Exemplar-Image-Colorization",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StyleTransfer-Colorization-SuperResolution",
+              "description": "Demonstration implementations of neural network image processing algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169090632,
+                "language": "C#",
+                "last_commit": "2021-11-16T17:42:43Z",
+                "owner": "ColorfulSoft",
+                "repo": "StyleTransfer-Colorization-SuperResolution",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C#"
         }
       ],
       "title": "Frameworks and libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SketchySceneColorization",
+          "description": "Language-based Colorization of Scene Sketches. (SIGGRAPH Asia 2019) https://sketchyscene.github.io/SketchySceneColorization/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201707125,
+            "language": "Python",
+            "last_commit": "2021-05-11T03:57:53Z",
+            "owner": "SketchyScene",
+            "repo": "SketchySceneColorization",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "Language-based colorization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Colorizer iOS",
+              "description": "Transform grayscale photos to color photos in iOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231091945,
+                "language": "Swift",
+                "last_commit": "2021-03-01T06:20:43Z",
+                "owner": "Alex13832",
+                "repo": "Colorizer-iOS",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS"
+        }
+      ],
+      "title": "Implementations / apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-Image-Colorization",
+          "description": "A collection of Deep Learning based Image Colorization and Video Colorization papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156939932,
+            "language": null,
+            "last_commit": "2026-08-21T06:30:17Z",
+            "owner": "MarkMoHR",
+            "repo": "Awesome-Image-Colorization",
+            "stars": 1163
+          }
+        }
+      ],
+      "title": ":books: Relevant knowledge, books and papers"
     },
     {
       "description": null,
@@ -333,7 +469,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74132
+            "stars": 74142
           }
         },
         {
@@ -348,7 +484,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28801
+            "stars": 28804
           }
         },
         {
@@ -363,7 +499,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11185
+            "stars": 11186
           }
         }
       ],
@@ -371,7 +507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:45:08.248Z",
+    "last_updated": "2026-08-24T14:49:08.598Z",
     "original_repository": "oskar-j/awesome-image-coloring",
     "original_repository_id": 189833747,
     "original_repository_sha": "df35e9e49494b702cd3c718b93ded77a6a05cfec",
