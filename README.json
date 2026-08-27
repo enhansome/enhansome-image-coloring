@@ -445,7 +445,7 @@
             "archived": false,
             "id": 156939932,
             "language": null,
-            "last_commit": "2026-08-21T06:30:17Z",
+            "last_commit": "2026-08-27T08:51:33Z",
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
             "stars": 1164
@@ -469,7 +469,7 @@
             "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74172
+            "stars": 74177
           }
         },
         {
@@ -484,7 +484,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28811
+            "stars": 28814
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11185
+            "stars": 11186
           }
         }
       ],
@@ -507,9 +507,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:49:07.338Z",
-    "original_repository": "oskar-j/awesome-image-coloring",
-    "original_repository_id": 189833747,
+    "last_updated": "2026-08-27T11:44:14.622Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 189833747,
+      "language": null,
+      "last_commit": "2023-02-05T13:50:34Z",
+      "owner": "oskar-j",
+      "repo": "awesome-image-coloring",
+      "stars": 63
+    },
     "original_repository_sha": "df35e9e49494b702cd3c718b93ded77a6a05cfec",
     "enhanced_repository": "enhansome/enhansome-image-coloring",
     "enhanced_repository_description": null,
