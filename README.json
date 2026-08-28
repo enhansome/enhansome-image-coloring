@@ -20,7 +20,8 @@
                     "owner": "Armour",
                     "repo": "Automatic-Image-Colorization",
                     "stars": 171
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "shekkizh",
                     "repo": "Colorization.tensorflow",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "AbdelrahmanRadwan",
                     "repo": "photo-coloring",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "PrimozGodec",
                     "repo": "ImageColorization",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "ameroyer",
                     "repo": "PIC",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 }
               ],
               "description": null,
@@ -102,7 +107,8 @@
                     "owner": "ImagingLab",
                     "repo": "Colorizing-with-GANs",
                     "stars": 268
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "ArkaJU",
                     "repo": "Image-Colorization-CycleGAN",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 }
               ],
               "description": null,
@@ -139,7 +146,8 @@
                     "owner": "emilwallner",
                     "repo": "Coloring-greyscale-images",
                     "stars": 1053
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "thevarunsharma",
                     "repo": "Image-Colorization",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "kgeorgiev42",
                     "repo": "Image-Colorization-of-Historical-Paintings",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "aman-chauhan",
                     "repo": "Image-Coloring",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 }
               ],
               "description": null,
@@ -206,7 +217,8 @@
                     "owner": "jantic",
                     "repo": "DeOldify",
                     "stars": 18481
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 }
               ],
               "description": null,
@@ -228,7 +240,8 @@
                     "owner": "richzhang",
                     "repo": "colorization",
                     "stars": 3461
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +256,8 @@
                     "owner": "junyanz",
                     "repo": "interactive-deep-colorization",
                     "stars": 2692
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 }
               ],
               "description": null,
@@ -265,7 +279,8 @@
                     "owner": "richzhang",
                     "repo": "colorization-pytorch",
                     "stars": 601
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "Time0o",
                     "repo": "colorful-colorization",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "kainoj",
                     "repo": "colnet",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -310,7 +327,8 @@
                     "owner": "karoly-hars",
                     "repo": "GAN_image_colorizing",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 },
                 {
                   "node_type": "item",
@@ -325,7 +343,8 @@
                     "owner": "done1892",
                     "repo": "Square-Images-Colorization",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:04.360Z"
                 }
               ],
               "description": null,
@@ -352,7 +371,8 @@
                 "owner": "saulo-p",
                 "repo": "Exemplar-Image-Colorization",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:24:04.360Z"
             }
           ],
           "description": null,
@@ -374,7 +394,8 @@
                 "owner": "ColorfulSoft",
                 "repo": "StyleTransfer-Colorization-SuperResolution",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T04:24:04.360Z"
             }
           ],
           "description": null,
@@ -400,7 +421,8 @@
             "owner": "SketchyScene",
             "repo": "SketchySceneColorization",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T04:24:04.360Z"
         }
       ],
       "title": "Language-based colorization"
@@ -423,7 +445,8 @@
                 "owner": "Alex13832",
                 "repo": "Colorizer-iOS",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T04:24:04.360Z"
             }
           ],
           "description": null,
@@ -449,7 +472,8 @@
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
             "stars": 1164
-          }
+          },
+          "first_seen": "2026-08-28T04:24:04.360Z"
         }
       ],
       "title": ":books: Relevant knowledge, books and papers"
@@ -466,11 +490,12 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:24Z",
+            "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74177
-          }
+            "stars": 74188
+          },
+          "first_seen": "2026-08-28T04:24:04.360Z"
         },
         {
           "node_type": "item",
@@ -484,8 +509,9 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28814
-          }
+            "stars": 28821
+          },
+          "first_seen": "2026-08-28T04:24:04.360Z"
         },
         {
           "node_type": "item",
@@ -500,14 +526,15 @@
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
             "stars": 11186
-          }
+          },
+          "first_seen": "2026-08-28T04:24:04.360Z"
         }
       ],
       "title": ":dark_sunglasses: Related awesome lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:14.622Z",
+    "last_updated": "2026-08-28T04:24:04.360Z",
     "original_repository_info": {
       "archived": false,
       "id": 189833747,
