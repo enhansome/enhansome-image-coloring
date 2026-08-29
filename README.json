@@ -14,12 +14,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎨 Automatic Image Colorization using TensorFlow based on Residual Encoder Network",
+                    "homepage": "http://tinyclouds.org/colorize/",
                     "id": 75982807,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-09-08T21:58:21Z",
+                    "open_issues": 5,
                     "owner": "Armour",
                     "repo": "Automatic-Image-Colorization",
-                    "stars": 171
+                    "stars": 171,
+                    "topics": [
+                      "auto-colorization",
+                      "colorization",
+                      "gpu",
+                      "image-colorization",
+                      "jarvis",
+                      "python3",
+                      "residual-encoder-network",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -30,12 +44,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Image colorization using CNNs in tensorflow",
+                    "homepage": null,
                     "id": 71087232,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-05-17T16:58:38Z",
+                    "open_issues": 1,
                     "owner": "shekkizh",
                     "repo": "Colorization.tensorflow",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": [
+                      "convolutional-networks",
+                      "image-colorization",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -46,12 +69,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Deep Learning based coloring tool, which can color a black-white or gray picture.",
+                    "homepage": null,
                     "id": 138640408,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-07-29T21:31:43Z",
+                    "open_issues": 2,
                     "owner": "AbdelrahmanRadwan",
                     "repo": "photo-coloring",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -62,12 +90,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Image and video colorizer is package for automatic image and video colorization. Models are allready trained",
+                    "homepage": null,
                     "id": 98869302,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-02T16:10:52Z",
+                    "open_issues": 5,
                     "owner": "PrimozGodec",
                     "repo": "ImageColorization",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "artificial-intelligence",
+                      "colorization",
+                      "datamining",
+                      "image-colorization",
+                      "machine-learning",
+                      "neural-network"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -78,12 +118,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Probabilistic Image Colorization, BMVC 2017",
+                    "homepage": "https://arxiv.org/abs/1705.04258",
                     "id": 93501621,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-12-13T15:40:37Z",
+                    "open_issues": 1,
                     "owner": "ameroyer",
                     "repo": "PIC",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "colorization",
+                      "deep-learning",
+                      "generative-model",
+                      "image-colorization",
+                      "pixelcnn",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 }
@@ -101,12 +153,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv.org/abs/1803.05400",
+                    "homepage": null,
                     "id": 118858669,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-09-05T00:16:08Z",
+                    "open_issues": 12,
                     "owner": "ImagingLab",
                     "repo": "Colorizing-with-GANs",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": [
+                      "colorization",
+                      "convolutional-networks",
+                      "deep-learning",
+                      "gans",
+                      "generative-adversarial-network"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -117,12 +180,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Colorization of grayscale images using CycleGAN in TensorFlow.",
+                    "homepage": null,
                     "id": 153828570,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-05-30T09:51:42Z",
+                    "open_issues": 1,
                     "owner": "ArkaJU",
                     "repo": "Image-Colorization-CycleGAN",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "computer-vision",
+                      "cyclegan",
+                      "deep-learning",
+                      "generative-adversarial-network",
+                      "image-colorization"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 }
@@ -140,12 +214,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Coloring black and white images with deep learning.",
+                    "homepage": null,
                     "id": 101624655,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-22T06:17:09Z",
+                    "open_issues": 8,
                     "owner": "emilwallner",
                     "repo": "Coloring-greyscale-images",
-                    "stars": 1053
+                    "stars": 1053,
+                    "topics": [
+                      "colorization",
+                      "deep-learning",
+                      "jupyter-notebook",
+                      "keras",
+                      "tensorflow",
+                      "tutorial"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -156,12 +242,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic Image Colorization using a Convolutional Network (U-Net)",
+                    "homepage": null,
                     "id": 164070375,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2020-04-29T07:46:22Z",
+                    "open_issues": 0,
                     "owner": "thevarunsharma",
                     "repo": "Image-Colorization",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "flask-application",
+                      "image-colorization",
+                      "keras",
+                      "machine-learning",
+                      "python",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -172,12 +272,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Recolorizing grayscaled historical paintings and photos with Deep Learning using an Autoencoder CNN.",
+                    "homepage": null,
                     "id": 186986989,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2019-05-16T10:13:02Z",
+                    "open_issues": 0,
                     "owner": "kgeorgiev42",
                     "repo": "Image-Colorization-of-Historical-Paintings",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "deep-learning",
+                      "google-colab",
+                      "image-colorization",
+                      "keras",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -188,12 +299,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Neural Net for coloring grayscale images using local and global image features",
+                    "homepage": null,
                     "id": 134805262,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-04-03T20:53:08Z",
+                    "open_issues": 0,
                     "owner": "aman-chauhan",
                     "repo": "Image-Coloring",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "cnn-classification",
+                      "cnn-keras",
+                      "image-colorization",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 }
@@ -211,12 +332,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+                    "homepage": null,
                     "id": 155636246,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-10-19T17:17:35Z",
+                    "open_issues": 1,
                     "owner": "jantic",
                     "repo": "DeOldify",
-                    "stars": 18481
+                    "stars": 18481,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 }
@@ -234,12 +360,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic colorization using deep neural networks. \"Colorful Image Colorization.\" In ECCV, 2016.",
+                    "homepage": "http://richzhang.github.io/colorization/",
                     "id": 54758833,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2023-11-27T04:46:28Z",
+                    "open_issues": 59,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3462
+                    "stars": 3462,
+                    "topics": [
+                      "automatic-colorization",
+                      "caffe",
+                      "colorization",
+                      "computer-vision",
+                      "deep-learning",
+                      "deep-learning-algorithms"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -250,12 +388,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep learning software for colorizing black and white images with a few clicks.",
+                    "homepage": "https://richzhang.github.io/ideepcolor/",
                     "id": 90598753,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-29T10:15:32Z",
+                    "open_issues": 32,
                     "owner": "junyanz",
                     "repo": "interactive-deep-colorization",
-                    "stars": 2692
+                    "stars": 2692,
+                    "topics": [
+                      "automatic-colorization",
+                      "caffe",
+                      "colorization",
+                      "computer-vision",
+                      "deep-learning",
+                      "deep-learning-algorithms",
+                      "interactive"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 }
@@ -273,12 +424,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch reimplementation of Interactive Deep Colorization",
+                    "homepage": "https://richzhang.github.io/ideepcolor/",
                     "id": 144341337,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-06-04T21:39:31Z",
+                    "open_issues": 15,
                     "owner": "richzhang",
                     "repo": "colorization-pytorch",
-                    "stars": 601
+                    "stars": 601,
+                    "topics": [
+                      "computer-graphics",
+                      "computer-vision",
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "image-colorization",
+                      "pytorch",
+                      "siggraph"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -289,12 +453,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A from-scratch PyTorch implementation of  \"Colorful Image Colorization\" by Zhang et al.",
+                    "homepage": null,
                     "id": 181223895,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-16T18:49:06Z",
+                    "open_issues": 7,
                     "owner": "Time0o",
                     "repo": "colorful-colorization",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "image-colorization",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -305,12 +479,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🖌️ Automatic Image Colorization with Simultaneous Classification – based on \"Let there be Color!\"",
+                    "homepage": null,
                     "id": 155073134,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-25T10:13:30Z",
+                    "open_issues": 4,
                     "owner": "kainoj",
                     "repo": "colnet",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "automatic-colorization",
+                      "cnn",
+                      "colorization",
+                      "convolutional-neural-networks",
+                      "image-colorization",
+                      "machine-learning",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -321,12 +508,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Image colorization with generative adversarial networks on the CIFAR10 dataset.",
+                    "homepage": null,
                     "id": 167068280,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-02-07T12:48:30Z",
+                    "open_issues": 0,
                     "owner": "karoly-hars",
                     "repo": "GAN_image_colorizing",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "artificial-intelligence",
+                      "batch-normalization",
+                      "cifar10",
+                      "computer-vision",
+                      "deep-learning",
+                      "gan",
+                      "generative-adversarial-network",
+                      "image-colorization",
+                      "neural-networks",
+                      "pytorch",
+                      "spectral-normalization",
+                      "unet"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -337,12 +542,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "colorization algorithms for images depicting cities squares",
+                    "homepage": null,
                     "id": 247184118,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-08-30T23:39:58Z",
+                    "open_issues": 1,
                     "owner": "done1892",
                     "repo": "Square-Images-Colorization",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "deep-learning",
+                      "image-colorization",
+                      "image-scraper"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 }
@@ -365,12 +579,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exemplar-based Image Colorization method based on superpixel segmentation and classification.",
+                "homepage": null,
                 "id": 167730916,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-01-26T19:55:59Z",
+                "open_issues": 0,
                 "owner": "saulo-p",
                 "repo": "Exemplar-Image-Colorization",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "colorization",
+                  "exemplar-based-colorization",
+                  "image-colorization"
+                ]
               },
               "first_seen": "2026-08-28T04:24:04.360Z"
             }
@@ -388,12 +611,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demonstration implementations of neural network image processing algorithms",
+                "homepage": null,
                 "id": 169090632,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-11-16T17:42:43Z",
+                "open_issues": 1,
                 "owner": "ColorfulSoft",
                 "repo": "StyleTransfer-Colorization-SuperResolution",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "deep-learning",
+                  "image-colorization",
+                  "image-super-resolution",
+                  "neural-style-transfer",
+                  "style-transfer"
+                ]
               },
               "first_seen": "2026-08-28T04:24:04.360Z"
             }
@@ -415,12 +649,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH Asia 2019] Language-based Colorization of Scene Sketches",
+            "homepage": "https://sketchyscene.github.io/SketchySceneColorization/",
             "id": 201707125,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-11T03:57:53Z",
+            "open_issues": 0,
             "owner": "SketchyScene",
             "repo": "SketchySceneColorization",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "colorization",
+              "image-colorization",
+              "instance-segmentation",
+              "language",
+              "language-interface",
+              "referring-image-segmentation",
+              "referring-segmentation",
+              "scene-sketch",
+              "siggraph",
+              "siggraph-asia",
+              "sketch",
+              "sketch-colorization"
+            ]
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
         }
@@ -439,12 +691,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transform grayscale photos to color photos in iOS",
+                "homepage": null,
                 "id": 231091945,
                 "language": "Swift",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-03-01T06:20:43Z",
+                "open_issues": 2,
                 "owner": "Alex13832",
                 "repo": "Colorizer-iOS",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "image-colorization",
+                  "ios",
+                  "opencv",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T04:24:04.360Z"
             }
@@ -466,12 +728,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: A collection of Deep Learning based Image Colorization and Video Colorization papers.",
+            "homepage": null,
             "id": 156939932,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T08:51:33Z",
+            "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1164
+            "stars": 1164,
+            "topics": [
+              "automatic-colorization",
+              "color-palette",
+              "color-strokes",
+              "color-transfer",
+              "colorization",
+              "computer-vision",
+              "deep-learning",
+              "graphics",
+              "image-colorization",
+              "image-colorization-paper",
+              "image-colorization-papers",
+              "papers",
+              "user-guided",
+              "user-interaction"
+            ]
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
         }
@@ -488,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74202
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
         },
@@ -504,12 +791,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+            "homepage": null,
             "id": 28723659,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
+            "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28829
+            "stars": 28828,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-networks",
+              "face-images",
+              "machine-learning",
+              "neural-network",
+              "recurrent-networks"
+            ]
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
         },
@@ -520,12 +822,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of deep learning resources for computer vision ",
+            "homepage": null,
             "id": 35812923,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
+            "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186
+            "stars": 11186,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
         }
@@ -534,15 +841,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:46.915Z",
+    "last_updated": "2026-08-29T05:06:11.163Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome AI-powered image coloring frameworks, libraries and software.",
+      "homepage": null,
       "id": 189833747,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-02-05T13:50:34Z",
+      "open_issues": 2,
       "owner": "oskar-j",
       "repo": "awesome-image-coloring",
-      "stars": 63
+      "stars": 63,
+      "topics": [
+        "awesome-list",
+        "deep-learning",
+        "deep-neural-networks",
+        "image-colorization"
+      ]
     },
     "original_repository_sha": "df35e9e49494b702cd3c718b93ded77a6a05cfec",
     "enhanced_repository": "enhansome/enhansome-image-coloring",
