@@ -239,7 +239,7 @@
                     "last_commit": "2023-11-27T04:46:28Z",
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3461
+                    "stars": 3462
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
                 },
@@ -493,7 +493,7 @@
             "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74188
+            "stars": 74202
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
         },
@@ -509,7 +509,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28821
+            "stars": 28829
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
         },
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:24:04.360Z",
+    "last_updated": "2026-08-29T02:51:46.915Z",
     "original_repository_info": {
       "archived": false,
       "id": 189833747,
