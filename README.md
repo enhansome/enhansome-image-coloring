@@ -75,10 +75,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,210 | 🐛 30 | 🌐 Python | 📅 2026-08-27 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,833 | 🐛 84 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,218 | 🐛 30 | 🌐 Python | 📅 2026-08-27 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,836 | 🐛 84 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
