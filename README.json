@@ -53,7 +53,7 @@
                     "open_issues": 1,
                     "owner": "shekkizh",
                     "repo": "Colorization.tensorflow",
-                    "stars": 75,
+                    "stars": 74,
                     "topics": [
                       "convolutional-networks",
                       "image-colorization",
@@ -341,7 +341,7 @@
                     "open_issues": 1,
                     "owner": "jantic",
                     "repo": "DeOldify",
-                    "stars": 18481,
+                    "stars": 18480,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
@@ -737,7 +737,7 @@
             "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1165,
+            "stars": 1164,
             "topics": [
               "automatic-colorization",
               "color-palette",
@@ -775,11 +775,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T15:29:10Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-02T19:29:21Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74240,
+            "stars": 74241,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -800,7 +800,7 @@
             "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28850,
+            "stars": 28856,
             "topics": [
               "awesome",
               "awesome-list",
@@ -831,7 +831,7 @@
             "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11187,
+            "stars": 11188,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:40:33.256Z",
+    "last_updated": "2026-09-02T22:42:55.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI-powered image coloring frameworks, libraries and software.",

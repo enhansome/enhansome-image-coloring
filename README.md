@@ -13,7 +13,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 #### Tensorflow
 
 * [Automatic Image Colorization](https://github.com/Armour/Automatic-Image-Colorization) ⭐ 171 | 🐛 5 | 🌐 Python | 📅 2022-09-08 - Automatic Image Colorization using TensorFlow based on Residual Encoder Network <http://tinyclouds.org/colorize/>
-* [Image Colorization using Convolutional Networks](https://github.com/shekkizh/Colorization.tensorflow) ⭐ 75 | 🐛 1 | 🌐 Python | 📅 2018-05-17 - Image colorization using CNNs in tensorflow.
+* [Image Colorization using Convolutional Networks](https://github.com/shekkizh/Colorization.tensorflow) ⭐ 74 | 🐛 1 | 🌐 Python | 📅 2018-05-17 - Image colorization using CNNs in tensorflow.
 * [Photo Coloring Using End2end CNN based Model!](https://github.com/AbdelrahmanRadwan/photo-coloring) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2018-07-29 - A Deep Learning based coloring tool, which can color a black-white or gray picture.
 * [Image and video colorizer](https://github.com/PrimozGodec/ImageColorization) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2024-08-02 - Image and video colorizer is package for automatic image and video colorization. Models are already trained.
 * [PIC - Probabilistic Image Colorization](https://github.com/ameroyer/PIC) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2018-12-13 - Probabilistic Image Colorization <https://arxiv.org/abs/1705.04258>
@@ -69,16 +69,16 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :books: Relevant knowledge, books and papers
 
-* [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,165 | 🐛 6 | 📅 2026-08-27 - A collection of Deep Learning based Image Colorization and Video Colorization papers.
+* [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,164 | 🐛 6 | 📅 2026-08-27 - A collection of Deep Learning based Image Colorization and Video Colorization papers.
 
 * [Build a Photo Restoration App with Python](https://www.youtube.com/watch?v=xgQpalRRW3A) - YouTube tutorial from AssemblyAI on how to build a photo restoration app with Python and Flask.
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,240 | 🐛 30 | 🌐 Python | 📅 2026-08-27 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,850 | 🐛 84 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,241 | 🐛 29 | 🌐 Python | 📅 2026-09-02 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,856 | 🐛 84 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
