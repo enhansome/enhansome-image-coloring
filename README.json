@@ -223,7 +223,7 @@
                     "open_issues": 8,
                     "owner": "emilwallner",
                     "repo": "Coloring-greyscale-images",
-                    "stars": 1053,
+                    "stars": 1052,
                     "topics": [
                       "colorization",
                       "deep-learning",
@@ -341,7 +341,7 @@
                     "open_issues": 1,
                     "owner": "jantic",
                     "repo": "DeOldify",
-                    "stars": 18477,
+                    "stars": 18475,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
@@ -779,7 +779,7 @@
             "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74343,
+            "stars": 74356,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -800,7 +800,7 @@
             "open_issues": 85,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28922,
+            "stars": 28929,
             "topics": [
               "awesome",
               "awesome-list",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:59:38.058Z",
+    "last_updated": "2026-09-16T23:04:06.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI-powered image coloring frameworks, libraries and software.",
