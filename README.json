@@ -341,7 +341,7 @@
                     "open_issues": 1,
                     "owner": "jantic",
                     "repo": "DeOldify",
-                    "stars": 18474,
+                    "stars": 18475,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
@@ -779,7 +779,7 @@
             "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74360,
+            "stars": 74366,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -800,7 +800,7 @@
             "open_issues": 86,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28933,
+            "stars": 28937,
             "topics": [
               "awesome",
               "awesome-list",
@@ -828,10 +828,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186,
+            "stars": 11187,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:56:12.703Z",
+    "last_updated": "2026-09-18T22:41:09.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI-powered image coloring frameworks, libraries and software.",
