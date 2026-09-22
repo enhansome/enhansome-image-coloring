@@ -26,7 +26,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 #### Keras
 
-* [Coloring Black and White photos with Neural Networks](https://github.com/emilwallner/Coloring-greyscale-images) ⭐ 1,052 | 🐛 8 | 🌐 Python | 📅 2024-01-22 - Coloring black and white images with deep learning.
+* [Coloring Black and White photos with Neural Networks](https://github.com/emilwallner/Coloring-greyscale-images) ⭐ 1,053 | 🐛 8 | 🌐 Python | 📅 2024-01-22 - Coloring black and white images with deep learning.
 * [Image-Colorization](https://github.com/thevarunsharma/Image-Colorization) ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29 - Automatic Image Colorization using a Convolutional Network (U-Net)
 * [JadeBlue96](https://github.com/JadeBlue96/Image-Colorization-of-Historical-Paintings) ⭐ 5 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-05-16 - Recolorizing grayscaled historical paintings and photos with Deep Learning using an Autoencoder CNN.
 * [Image-Coloring](https://github.com/aman-chauhan/Image-Coloring) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-04-03 - Deep Neural Net for coloring grayscale images using local and global image features
@@ -38,7 +38,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 #### Caffee
 
 * [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,463 | 🐛 60 | 🌐 Python | 📅 2023-11-27 - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. <http://richzhang.github.io/colorization/>
-* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,691 | 🐛 32 | 🌐 Python | 📅 2022-07-29 - Deep learning software for colorizing black and white images with a few clicks. <https://richzhang.github.io/ideepcolor/>
+* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,692 | 🐛 32 | 🌐 Python | 📅 2022-07-29 - Deep learning software for colorizing black and white images with a few clicks. <https://richzhang.github.io/ideepcolor/>
 
 #### PyTorch
 
@@ -75,10 +75,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,386 | 🐛 29 | 🌐 Python | 📅 2026-09-21 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,950 | 🐛 87 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,406 | 🐛 20 | 🌐 Python | 📅 2026-09-22 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,957 | 🐛 88 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
