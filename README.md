@@ -42,7 +42,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 #### PyTorch
 
-* [Interactive Deep Colorization in PyTorch](https://github.com/richzhang/colorization-pytorch) ⭐ 601 | 🐛 15 | 🌐 Python | 📅 2020-06-04 - PyTorch reimplementation of Interactive Deep Colorization <https://richzhang.github.io/ideepcolor/>
+* [Interactive Deep Colorization in PyTorch](https://github.com/richzhang/colorization-pytorch) ⭐ 602 | 🐛 15 | 🌐 Python | 📅 2020-06-04 - PyTorch reimplementation of Interactive Deep Colorization <https://richzhang.github.io/ideepcolor/>
 * [Colorful Image Colorization PyTorch](https://github.com/Time0o/pytorch-colorful-colorization) ⭐ 49 | 🐛 7 | 🌐 Python | 📅 2021-06-16 - A from-scratch PyTorch implementation of "Colorful Image Colorization" by Zhang et al. created for the Deep Learning in Data Science course at KTH Stockholm.
 * [Automatic Image Colorization](https://github.com/kainoj/colnet) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2024-07-25 - Automatic Image Colorization with Simultaneous Classification – based on "Let there be Color!".
 * [Image colorization with GANs](https://github.com/karoly-hars/GAN_image_colorizing) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-02-07 - Image colorization with generative adversarial networks on the CIFAR10 dataset.
@@ -75,10 +75,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,421 | 🐛 21 | 🌐 Python | 📅 2026-09-22 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,960 | 🐛 88 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,441 | 🐛 20 | 🌐 Python | 📅 2026-09-22 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,964 | 🐛 88 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 49 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
