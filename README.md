@@ -20,7 +20,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 #### Tensorflow with GANs
 
-* [Image Colorization with Generative Adversarial Networks](https://github.com/ImagingLab/Colorizing-with-GANs) ⭐ 268 | 🐛 12 | 🌐 Python | 📅 2022-09-05 -
+* [Image Colorization with Generative Adversarial Networks](https://github.com/ImagingLab/Colorizing-with-GANs) ⭐ 269 | 🐛 12 | 🌐 Python | 📅 2022-09-05 -
   Grayscale Image Colorization with Generative Adversarial Networks. <https://arxiv.org/abs/1803.05400>
 * [Image-colorization-using-CycleGAN](https://github.com/ArkaJU/Image-Colorization-CycleGAN) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2021-05-30 - Colorization of grayscale images using CycleGAN in TensorFlow.
 
@@ -75,10 +75,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,441 | 🐛 20 | 🌐 Python | 📅 2026-09-22 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,964 | 🐛 88 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 49 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,454 | 🐛 20 | 🌐 Python | 📅 2026-09-22 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,973 | 🐛 88 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 49 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
