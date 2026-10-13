@@ -23,7 +23,7 @@
                     "open_issues": 5,
                     "owner": "Armour",
                     "repo": "Automatic-Image-Colorization",
-                    "stars": 171,
+                    "stars": 172,
                     "topics": [
                       "auto-colorization",
                       "colorization",
@@ -53,7 +53,7 @@
                     "open_issues": 1,
                     "owner": "shekkizh",
                     "repo": "Colorization.tensorflow",
-                    "stars": 74,
+                    "stars": 75,
                     "topics": [
                       "convolutional-networks",
                       "image-colorization",
@@ -223,7 +223,7 @@
                     "open_issues": 8,
                     "owner": "emilwallner",
                     "repo": "Coloring-greyscale-images",
-                    "stars": 1053,
+                    "stars": 1052,
                     "topics": [
                       "colorization",
                       "deep-learning",
@@ -397,7 +397,7 @@
                     "open_issues": 32,
                     "owner": "junyanz",
                     "repo": "interactive-deep-colorization",
-                    "stars": 2694,
+                    "stars": 2695,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -737,7 +737,7 @@
             "open_issues": 6,
             "owner": "MarkMoHR",
             "repo": "Awesome-Image-Colorization",
-            "stars": 1165,
+            "stars": 1167,
             "topics": [
               "automatic-colorization",
               "color-palette",
@@ -776,10 +776,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-13T00:31:03Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74576,
+            "stars": 74580,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -800,7 +800,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29038,
+            "stars": 29042,
             "topics": [
               "awesome",
               "awesome-list",
@@ -831,7 +831,7 @@
             "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11189,
+            "stars": 11190,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:08:00.024Z",
+    "last_updated": "2026-10-13T23:46:29.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI-powered image coloring frameworks, libraries and software.",
