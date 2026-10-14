@@ -12,7 +12,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 #### Tensorflow
 
-* [Automatic Image Colorization](https://github.com/Armour/Automatic-Image-Colorization) ⭐ 172 | 🐛 5 | 🌐 Python | 📅 2022-09-08 - Automatic Image Colorization using TensorFlow based on Residual Encoder Network <http://tinyclouds.org/colorize/>
+* [Automatic Image Colorization](https://github.com/Armour/Automatic-Image-Colorization) ⭐ 173 | 🐛 5 | 🌐 Python | 📅 2022-09-08 - Automatic Image Colorization using TensorFlow based on Residual Encoder Network <http://tinyclouds.org/colorize/>
 * [Image Colorization using Convolutional Networks](https://github.com/shekkizh/Colorization.tensorflow) ⭐ 75 | 🐛 1 | 🌐 Python | 📅 2018-05-17 - Image colorization using CNNs in tensorflow.
 * [Photo Coloring Using End2end CNN based Model!](https://github.com/AbdelrahmanRadwan/photo-coloring) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2018-07-29 - A Deep Learning based coloring tool, which can color a black-white or gray picture.
 * [Image and video colorizer](https://github.com/PrimozGodec/ImageColorization) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2024-08-02 - Image and video colorizer is package for automatic image and video colorization. Models are already trained.
@@ -38,7 +38,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 #### Caffee
 
 * [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,464 | 🐛 60 | 🌐 Python | 📅 2023-11-27 - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. <http://richzhang.github.io/colorization/>
-* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,695 | 🐛 32 | 🌐 Python | 📅 2022-07-29 - Deep learning software for colorizing black and white images with a few clicks. <https://richzhang.github.io/ideepcolor/>
+* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,694 | 🐛 32 | 🌐 Python | 📅 2022-07-29 - Deep learning software for colorizing black and white images with a few clicks. <https://richzhang.github.io/ideepcolor/>
 
 #### PyTorch
 
@@ -75,10 +75,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,580 | 🐛 25 | 🌐 Python | 📅 2026-10-13 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,042 | 🐛 88 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,190 | 🐛 48 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,583 | 🐛 25 | 🌐 Python | 📅 2026-10-13 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,050 | 🐛 90 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 48 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
