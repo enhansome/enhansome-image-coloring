@@ -341,7 +341,7 @@
                     "open_issues": 1,
                     "owner": "jantic",
                     "repo": "DeOldify",
-                    "stars": 18466,
+                    "stars": 18465,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
@@ -369,7 +369,7 @@
                     "open_issues": 60,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3464,
+                    "stars": 3463,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -397,7 +397,7 @@
                     "open_issues": 32,
                     "owner": "junyanz",
                     "repo": "interactive-deep-colorization",
-                    "stars": 2694,
+                    "stars": 2693,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -779,7 +779,7 @@
             "open_issues": 25,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74583,
+            "stars": 74590,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -800,7 +800,7 @@
             "open_issues": 90,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29050,
+            "stars": 29053,
             "topics": [
               "awesome",
               "awesome-list",
@@ -831,7 +831,7 @@
             "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11192,
+            "stars": 11191,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:19:34.408Z",
+    "last_updated": "2026-10-15T23:08:02.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI-powered image coloring frameworks, libraries and software.",
