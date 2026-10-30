@@ -67,6 +67,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 * [Colorizer iOS](https://github.com/alex011235/Colorizer-iOS) ⭐ 28 | 🐛 2 | 🌐 Swift | 📅 2021-03-01 - Transform grayscale photos to color photos in iOS
 
+### Web
+
+* [ArtImageHub](https://www.artimagehub.com/) - AI photo restorer, colorizer, and enhancer. Restore damaged or faded old photos, add color, and enhance faces. $4.99 one-time, no subscription.
+
 ## :books: Relevant knowledge, books and papers
 
 * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,167 | 🐛 6 | 📅 2026-10-28 - A collection of Deep Learning based Image Colorization and Video Colorization papers.
@@ -75,10 +79,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,686 | 🐛 30 | 🌐 Python | 📅 2026-10-27 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,102 | 🐛 90 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,690 | 🐛 31 | 🌐 Python | 📅 2026-10-27 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,111 | 🐛 90 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,190 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
