@@ -37,7 +37,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 #### Caffee
 
-* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,470 | 🐛 60 | 🌐 Python | 📅 2023-11-27 - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. <http://richzhang.github.io/colorization/>
+* [Colorful Image Colorization](https://github.com/richzhang/colorization) ⭐ 3,471 | 🐛 60 | 🌐 Python | 📅 2023-11-27 - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. <http://richzhang.github.io/colorization/>
 * [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) ⭐ 2,694 | 🐛 32 | 🌐 Python | 📅 2022-07-29 - Deep learning software for colorizing black and white images with a few clicks. <https://richzhang.github.io/ideepcolor/>
 
 #### PyTorch
@@ -59,7 +59,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## Language-based colorization
 
-* [SketchySceneColorization](https://github.com/SketchyScene/SketchySceneColorization) ⭐ 105 | 🐛 0 | 🌐 Python | 📅 2021-05-11 - Language-based Colorization of Scene Sketches. (SIGGRAPH Asia 2019) <https://sketchyscene.github.io/SketchySceneColorization/>
+* [SketchySceneColorization](https://github.com/SketchyScene/SketchySceneColorization) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2021-05-11 - Language-based Colorization of Scene Sketches. (SIGGRAPH Asia 2019) <https://sketchyscene.github.io/SketchySceneColorization/>
 
 ## Implementations / apps
 
@@ -73,16 +73,16 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :books: Relevant knowledge, books and papers
 
-* [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,169 | 🐛 6 | 📅 2026-10-28 - A collection of Deep Learning based Image Colorization and Video Colorization papers.
+* [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,168 | 🐛 6 | 📅 2026-10-28 - A collection of Deep Learning based Image Colorization and Video Colorization papers.
 
 * [Build a Photo Restoration App with Python](https://www.youtube.com/watch?v=xgQpalRRW3A) - YouTube tutorial from AssemblyAI on how to build a photo restoration app with Python and Flask.
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,739 | 🐛 31 | 🌐 Python | 📅 2026-11-01 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,131 | 🐛 93 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,191 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,744 | 🐛 32 | 🌐 Python | 📅 2026-11-01 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,134 | 🐛 93 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
