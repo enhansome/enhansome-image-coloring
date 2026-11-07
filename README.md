@@ -26,7 +26,7 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 #### Keras
 
-* [Coloring Black and White photos with Neural Networks](https://github.com/emilwallner/Coloring-greyscale-images) ⭐ 1,053 | 🐛 8 | 🌐 Python | 📅 2024-01-22 - Coloring black and white images with deep learning.
+* [Coloring Black and White photos with Neural Networks](https://github.com/emilwallner/Coloring-greyscale-images) ⭐ 1,051 | 🐛 8 | 🌐 Python | 📅 2024-01-22 - Coloring black and white images with deep learning.
 * [Image-Colorization](https://github.com/thevarunsharma/Image-Colorization) ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29 - Automatic Image Colorization using a Convolutional Network (U-Net)
 * [JadeBlue96](https://github.com/JadeBlue96/Image-Colorization-of-Historical-Paintings) ⭐ 5 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-05-16 - Recolorizing grayscaled historical paintings and photos with Deep Learning using an Autoencoder CNN.
 * [Image-Coloring](https://github.com/aman-chauhan/Image-Coloring) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-04-03 - Deep Neural Net for coloring grayscale images using local and global image features
@@ -79,10 +79,10 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,762 | 🐛 34 | 🌐 Python | 📅 2026-11-01 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,145 | 🐛 93 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,771 | 🐛 34 | 🌐 Python | 📅 2026-11-01 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,151 | 🐛 93 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,193 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
