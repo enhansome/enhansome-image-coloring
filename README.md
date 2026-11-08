@@ -73,16 +73,16 @@ Most of the software runs in `Python`, and requires some kind of an AI framework
 
 ## :books: Relevant knowledge, books and papers
 
-* [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,167 | 🐛 6 | 📅 2026-10-28 - A collection of Deep Learning based Image Colorization and Video Colorization papers.
+* [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) ⭐ 1,168 | 🐛 6 | 📅 2026-10-28 - A collection of Deep Learning based Image Colorization and Video Colorization papers.
 
 * [Build a Photo Restoration App with Python](https://www.youtube.com/watch?v=xgQpalRRW3A) - YouTube tutorial from AssemblyAI on how to build a photo restoration app with Python and Flask.
 
 ## :dark\_sunglasses: Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,782 | 🐛 34 | 🌐 Python | 📅 2026-11-01 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,155 | 🐛 92 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,785 | 🐛 34 | 🌐 Python | 📅 2026-11-01 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,163 | 🐛 92 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,191 | 🐛 47 | 📅 2023-08-15 - A curated list of deep learning resources for computer vision.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
