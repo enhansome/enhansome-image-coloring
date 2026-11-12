@@ -341,7 +341,7 @@
                     "open_issues": 1,
                     "owner": "jantic",
                     "repo": "DeOldify",
-                    "stars": 18449,
+                    "stars": 18448,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:04.360Z"
@@ -369,7 +369,7 @@
                     "open_issues": 60,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3472,
+                    "stars": 3474,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -397,7 +397,7 @@
                     "open_issues": 32,
                     "owner": "junyanz",
                     "repo": "interactive-deep-colorization",
-                    "stars": 2694,
+                    "stars": 2695,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -775,11 +775,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T23:05:27Z",
+            "last_commit": "2026-11-11T19:58:53Z",
             "open_issues": 35,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74791,
+            "stars": 74800,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:04.360Z"
@@ -800,7 +800,7 @@
             "open_issues": 92,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29174,
+            "stars": 29180,
             "topics": [
               "awesome",
               "awesome-list",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:43:45.393Z",
+    "last_updated": "2026-11-12T01:56:38.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI-powered image coloring frameworks, libraries and software.",
